@@ -1,0 +1,19 @@
+hr{
+	width: 250px;
+}
+.jumbotron{
+	background-image: url(building.jpg);
+	background-size: cover;
+	height: 600px;
+}
+.carousel{
+	width: 800px;
+}
+footer{
+}
+.gambar{
+	background-color: #eee;
+}
+button{
+	width: 100%;
+}
